@@ -1,6 +1,6 @@
 # KV
 
-**TODO: Add description**
+KV store built as a way of learning Elixir. Based on material available on [Elixir's website](https://elixir-lang.org/getting-started/introduction.html)
 
 ## Installation
 
